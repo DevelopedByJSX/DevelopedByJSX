@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/developedbyjsx" target="blank"><img src="https://img.shields.io/twitter/follow/developedbyjsx?logo=twitter&style=for-the-badge" alt="developedbyjsx" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@developedbyjsx](https://medium.com/@developedbyjsx)
+📝 I regularly write articles on [https://medium.com/@developedbyjsx](https://medium.com/@developedbyjsx)
 
 
 <h3 align="left">Connect with me:</h3>
